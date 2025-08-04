@@ -1,0 +1,9 @@
+Usuario 1:
+Nombre: Maria Cielito Melgarejo Baez
+Correo: mariacielito8@fpuna.edu.py
+CI: 5574506
+Club: Olimpia campeón
+Edad: 23 años.
+Carrera: ingeniería en informática.
+Cumpleaños: 25 de julio
+
