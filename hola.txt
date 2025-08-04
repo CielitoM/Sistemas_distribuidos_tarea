@@ -7,3 +7,9 @@ Edad: 23 años.
 Carrera: ingeniería en informática.
 Cumpleaños: 25 de julio
 
+
+Usuario 3:
+Nombre: Diego Romero
+correo: diego16romero@fpuna.edu.py
+carrera: ing en informatica 
+Cumpleaños: 10 de febrero
