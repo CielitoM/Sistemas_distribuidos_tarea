@@ -7,6 +7,18 @@ Edad: 23 años.
 Carrera: ingeniería en informática.
 Cumpleaños: 25 de julio
 
+Usuario 2:
+Nombre: Nicolás Daniel Arza Vega
+Correo: nico.arza.2002@fpuna.edu.py
+CI: 5947416
+Club: Olimpia campeón.
+Edad: 23 años.
+Nacionalidad: paraguaya.
+Ciudad: Asunción.
+Sexo: masculino.
+Carrera: ingeniería en informática.
+Cumpleaños: 20 de abril.
+Signo del zodiaco: Olimpia campeón.
 
 Usuario 3:
 Nombre: Diego Romero
